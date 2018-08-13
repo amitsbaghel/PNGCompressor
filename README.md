@@ -1,3 +1,4 @@
 # PNGCompressor
-C# wrapper for OptiPNG and PNGQuant to compress PNG either lossless or lossy
+C# wrapper for OptiPNG and PNGQuant to compress PNG either lossless or lossy.
+The Nuget can reached out at https://www.nuget.org/packages/PNGCompressor/
 Soon will be outsourcing the code. :)
